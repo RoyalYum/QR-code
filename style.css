@@ -13,7 +13,8 @@ body{
 
     .main
   {
-    margin:450px;
+    margin:auto;
+      width:40vh;
     border-radius: 20px;
     padding: 20px;
     background-color: white;
@@ -42,7 +43,8 @@ border-radius: 15px;
     
 @media screen and (max-width: 500px) {
   .main {
-    margin:15vw;
+    margin:auto;
+      
     padding: 20px;  
   }
 
