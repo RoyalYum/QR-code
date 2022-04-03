@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcode-component-solution-using-basic-html-and-css-properties-rkxljDUQq)
-- Live Site URL: [Add live site URL here](https://qr-code-sol.vercel.app/)
+- Solution URL: [ my solution](https://www.frontendmentor.io/solutions/qrcode-component-solution-using-basic-html-and-css-properties-rkxljDUQq)
+- Live Site URL: [ live site](https://qr-code-sol.vercel.app/)
 
 ## My process
 
@@ -79,10 +79,7 @@ see below:
 
 ### Continued development
 
-I would like to focus on the variouse aspects of CSS and refine my skill set in further project, areas Such as:
-DISPLAY-
--flex
--grid
+I would like to focus on the variouse aspects of CSS and refine my skill set in further projects
 ### Useful resources
 
 - [css-tricks](https://www.css-tricks.com) - This helped me understand variouse challenges on CSS at whole. I really liked the variouse ways they implement, makesit easier to understand and 0f course i will use it going forward.
